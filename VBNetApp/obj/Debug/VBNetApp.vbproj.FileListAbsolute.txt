@@ -1,0 +1,11 @@
+C:\Users\Alexander Latorre\source\repos\VBNetApp\VBNetApp\bin\Debug\VBNetApp.exe.config
+C:\Users\Alexander Latorre\source\repos\VBNetApp\VBNetApp\bin\Debug\VBNetApp.exe
+C:\Users\Alexander Latorre\source\repos\VBNetApp\VBNetApp\bin\Debug\VBNetApp.pdb
+C:\Users\Alexander Latorre\source\repos\VBNetApp\VBNetApp\bin\Debug\VBNetApp.xml
+C:\Users\Alexander Latorre\source\repos\VBNetApp\VBNetApp\obj\Debug\VBNetApp.vbproj.AssemblyReference.cache
+C:\Users\Alexander Latorre\source\repos\VBNetApp\VBNetApp\obj\Debug\VBNetApp.Resources.resources
+C:\Users\Alexander Latorre\source\repos\VBNetApp\VBNetApp\obj\Debug\VBNetApp.vbproj.GenerateResource.cache
+C:\Users\Alexander Latorre\source\repos\VBNetApp\VBNetApp\obj\Debug\VBNetApp.vbproj.CoreCompileInputs.cache
+C:\Users\Alexander Latorre\source\repos\VBNetApp\VBNetApp\obj\Debug\VBNetApp.exe
+C:\Users\Alexander Latorre\source\repos\VBNetApp\VBNetApp\obj\Debug\VBNetApp.xml
+C:\Users\Alexander Latorre\source\repos\VBNetApp\VBNetApp\obj\Debug\VBNetApp.pdb
